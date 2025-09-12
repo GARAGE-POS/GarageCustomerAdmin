@@ -204,7 +204,7 @@ namespace BAL.Repositories
             try
             {
                 int rtn = 0;
-                SqlParameter[] p = new SqlParameter[23];
+                SqlParameter[] p = new SqlParameter[22];
                 p[0] = new SqlParameter("@Name", data.Name);
                 p[1] = new SqlParameter("@Descripiton", data.Descripiton);
                 p[2] = new SqlParameter("@Address", data.Address);
@@ -214,20 +214,20 @@ namespace BAL.Repositories
                 p[6] = new SqlParameter("@Latitude", data.Latitude);
                 p[7] = new SqlParameter("@LastUpdatedBy", "Admin");
                 p[8] = new SqlParameter("@LandmarkID", data.LandmarkID);
-                p[9] = new SqlParameter("@LastUpdatedDate", data.LastUpdatedDate);
-                p[10] = new SqlParameter("@StatusID", data.StatusID);
-                p[11] = new SqlParameter("@IsFeatured", data.IsFeatured);
-                p[12] = new SqlParameter("@LocationID", data.LocationID);
-                p[13] = new SqlParameter("@GMapLink", data.Gmaplink);
-                p[14] = new SqlParameter("@ArabicName", data.ArabicName);
-                p[15] = new SqlParameter("@ArabicDescription", data.ArabicDescription);
-                p[16] = new SqlParameter("@ArabicAddress", data.ArabicAddress);
-                p[17] = new SqlParameter("@CustomerStatusID", data.CustomerStatusID);
-                p[18] = new SqlParameter("@BrandImage", data.BrandThumbnailImage);
-                p[19] = new SqlParameter("@CountryCode", data.CountryID);
-                p[20] = new SqlParameter("@CityID", data.CityID);
-                p[21] = new SqlParameter("@UserID", data.UserID);
-                p[22] = new SqlParameter("@BusinessType", data.BusinessType);
+                p[9] = new SqlParameter("@StatusID", data.StatusID);
+                p[10] = new SqlParameter("@IsFeatured", data.IsFeatured);
+                p[11] = new SqlParameter("@LocationID", data.LocationID);
+                p[12] = new SqlParameter("@GMapLink", data.Gmaplink);
+                p[13] = new SqlParameter("@ArabicName", data.ArabicName);
+                p[14] = new SqlParameter("@ArabicDescription", data.ArabicDescription);
+                p[15] = new SqlParameter("@ArabicAddress", data.ArabicAddress);
+                p[16] = new SqlParameter("@CustomerStatusID", data.CustomerStatusID);
+                p[17] = new SqlParameter("@BrandImage", data.BrandThumbnailImage);
+                p[18] = new SqlParameter("@CountryCode", data.CountryID);
+                p[19] = new SqlParameter("@CityID", data.CityID);
+                p[20] = new SqlParameter("@UserID", data.UserID);
+                p[21] = new SqlParameter("@BusinessType", data.BusinessType);
+
 
                 rtn = (new DBHelperGarageUAT().ExecuteNonQueryReturn)("dbo.sp_UpdateLocation_CADMIN", p);
 
