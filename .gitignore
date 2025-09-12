@@ -1,6 +1,8 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
+temp_auto_push.bat
 
 /.vs/GarageCustomerAdmin/FileContentIndex
 /bin/Debug/net6.0
+temp_interactive_push.bat

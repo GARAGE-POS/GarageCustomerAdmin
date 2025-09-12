@@ -23,20 +23,36 @@
       "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\bll\\_services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:bll\\_services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\clientapp\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:clientapp\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\bll\\_dbparamfactory\\logindb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:bll\\_dbparamfactory\\logindb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\clientapp\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:clientapp\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\clientapp\\src\\app\\admin\\settings\\appsettings\\appsettings.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:clientapp\\src\\app\\admin\\settings\\appsettings\\appsettings.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\bll\\_services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:bll\\_services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\_models\\reviewsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\clientapp\\src\\app\\layout\\layout.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:clientapp\\src\\app\\layout\\layout.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\bll\\_dbparamfactory\\logindb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:bll\\_dbparamfactory\\logindb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\controllers\\carsellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,14 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FAF8679-E55B-46AC-B1E2-DBC56507BEFD}|GarageCustomerAdmin.csproj|e:\\projects\\garagecustomer_admin\\_models\\locationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -162,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
@@ -172,7 +176,7 @@
               "RelativeDocumentMoniker": "Controllers\\locationController.cs",
               "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\locationController.cs",
               "RelativeToolTip": "Controllers\\locationController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwBgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwC4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T11:43:24.243Z",
               "IsPinned": true,
@@ -220,28 +224,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "locationDB.cs",
-              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\locationDB.cs",
-              "RelativeDocumentMoniker": "BLL\\_DBParamFactory\\locationDB.cs",
-              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\locationDB.cs",
-              "RelativeToolTip": "BLL\\_DBParamFactory\\locationDB.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T07:43:05.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DBHelperGarageUAT.cs",
-              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Helpers\\DBHelperGarageUAT.cs",
-              "RelativeDocumentMoniker": "Helpers\\DBHelperGarageUAT.cs",
-              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\Helpers\\DBHelperGarageUAT.cs",
-              "RelativeToolTip": "Helpers\\DBHelperGarageUAT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T09:58:30.117Z",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T07:59:41.837Z",
               "EditorCaption": ""
             },
             {
@@ -252,9 +243,22 @@
               "RelativeDocumentMoniker": "Helpers\\DBHelper.cs",
               "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\Helpers\\DBHelper.cs",
               "RelativeToolTip": "Helpers\\DBHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T08:28:41.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "loginDB.cs",
+              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\loginDB.cs",
+              "RelativeDocumentMoniker": "BLL\\_DBParamFactory\\loginDB.cs",
+              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\loginDB.cs",
+              "RelativeToolTip": "BLL\\_DBParamFactory\\loginDB.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vyQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:59:26.761Z",
               "EditorCaption": ""
             },
             {
@@ -265,53 +269,53 @@
               "RelativeDocumentMoniker": "BLL\\_Services\\locationService.cs",
               "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_Services\\locationService.cs",
               "RelativeToolTip": "BLL\\_Services\\locationService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBUAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwF0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T07:43:05.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "loginController.cs",
-              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\loginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\loginController.cs",
-              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\loginController.cs",
-              "RelativeToolTip": "Controllers\\loginController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "locationDB.cs",
+              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\locationDB.cs",
+              "RelativeDocumentMoniker": "BLL\\_DBParamFactory\\locationDB.cs",
+              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\locationDB.cs",
+              "RelativeToolTip": "BLL\\_DBParamFactory\\locationDB.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAkwMkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T07:59:22.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "customerController.cs",
-              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\customerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\customerController.cs",
-              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\customerController.cs",
-              "RelativeToolTip": "Controllers\\customerController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T08:16:52.98Z",
+              "WhenOpened": "2025-06-25T07:43:05.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "customerService.cs",
-              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_Services\\customerService.cs",
-              "RelativeDocumentMoniker": "BLL\\_Services\\customerService.cs",
-              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_Services\\customerService.cs",
-              "RelativeToolTip": "BLL\\_Services\\customerService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T06:39:57.631Z",
+              "WhenOpened": "2025-06-25T09:06:16.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "DBHelperGarageUAT.cs",
+              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Helpers\\DBHelperGarageUAT.cs",
+              "RelativeDocumentMoniker": "Helpers\\DBHelperGarageUAT.cs",
+              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\Helpers\\DBHelperGarageUAT.cs",
+              "RelativeToolTip": "Helpers\\DBHelperGarageUAT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:58:30.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "login.component.ts",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\ClientApp\\src\\app\\login\\login.component.ts",
               "RelativeDocumentMoniker": "ClientApp\\src\\app\\login\\login.component.ts",
@@ -324,7 +328,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 9,
+              "Title": "loginController.cs",
+              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\loginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\loginController.cs",
+              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\loginController.cs",
+              "RelativeToolTip": "Controllers\\loginController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:59:22.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "customerService.cs",
+              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_Services\\customerService.cs",
+              "RelativeDocumentMoniker": "BLL\\_Services\\customerService.cs",
+              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_Services\\customerService.cs",
+              "RelativeToolTip": "BLL\\_Services\\customerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:39:57.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "customerController.cs",
+              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\customerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\customerController.cs",
+              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\customerController.cs",
+              "RelativeToolTip": "Controllers\\customerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T08:16:52.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.component.ts",
+              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\ClientApp\\src\\app\\admin\\settings\\appsettings\\appsettings.component.ts",
+              "RelativeDocumentMoniker": "ClientApp\\src\\app\\admin\\settings\\appsettings\\appsettings.component.ts",
+              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\ClientApp\\src\\app\\admin\\settings\\appsettings\\appsettings.component.ts",
+              "RelativeToolTip": "ClientApp\\src\\app\\admin\\settings\\appsettings\\appsettings.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-25T13:24:18.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Location.ts",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\ClientApp\\src\\app\\_models\\Location.ts",
               "RelativeDocumentMoniker": "ClientApp\\src\\app\\_models\\Location.ts",
@@ -337,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "addlocation.component.html",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\ClientApp\\src\\app\\admin\\company\\locations\\addlocation\\addlocation.component.html",
               "RelativeDocumentMoniker": "ClientApp\\src\\app\\admin\\company\\locations\\addlocation\\addlocation.component.html",
@@ -350,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "reviewsViewModel.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\_Models\\reviewsViewModel.cs",
               "RelativeDocumentMoniker": "_Models\\reviewsViewModel.cs",
@@ -363,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "layout.component.ts",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\ClientApp\\src\\app\\layout\\layout.component.ts",
               "RelativeDocumentMoniker": "ClientApp\\src\\app\\layout\\layout.component.ts",
@@ -376,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "layout.component.html",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\ClientApp\\src\\app\\layout\\layout.component.html",
               "RelativeDocumentMoniker": "ClientApp\\src\\app\\layout\\layout.component.html",
@@ -389,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CarSellController.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\CarSellController.cs",
               "RelativeDocumentMoniker": "Controllers\\CarSellController.cs",
@@ -402,20 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "loginDB.cs",
-              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\loginDB.cs",
-              "RelativeDocumentMoniker": "BLL\\_DBParamFactory\\loginDB.cs",
-              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\loginDB.cs",
-              "RelativeToolTip": "BLL\\_DBParamFactory\\loginDB.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA7wCkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T07:59:26.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "locations.component.ts",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\ClientApp\\src\\app\\admin\\company\\locations\\locations.component.ts",
               "RelativeDocumentMoniker": "ClientApp\\src\\app\\admin\\company\\locations\\locations.component.ts",
@@ -428,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "carsController.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\carsController.cs",
               "RelativeDocumentMoniker": "Controllers\\carsController.cs",
@@ -441,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "locationViewModel.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\_Models\\locationViewModel.cs",
               "RelativeDocumentMoniker": "_Models\\locationViewModel.cs",
@@ -455,32 +498,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Startup.cs",
-              "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\Startup.cs",
-              "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T09:06:16.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\Projects\\GarageCustomer_Admin\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-25T07:59:41.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "landmarkController.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\landmarkController.cs",
               "RelativeDocumentMoniker": "Controllers\\landmarkController.cs",
@@ -493,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "blogController.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\blogController.cs",
               "RelativeDocumentMoniker": "Controllers\\blogController.cs",
@@ -506,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "addonsController.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\addonsController.cs",
               "RelativeDocumentMoniker": "Controllers\\addonsController.cs",
@@ -519,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "all.css",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\ClientApp\\src\\assets\\vendor\\fontawesome-free\\css\\all.css",
               "RelativeDocumentMoniker": "ClientApp\\src\\assets\\vendor\\fontawesome-free\\css\\all.css",
@@ -532,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "aboutViewModel.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\_Models\\aboutViewModel.cs",
               "RelativeDocumentMoniker": "_Models\\aboutViewModel.cs",
@@ -545,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "addonsDB.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\addonsDB.cs",
               "RelativeDocumentMoniker": "BLL\\_DBParamFactory\\addonsDB.cs",
@@ -558,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "blogDB.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\blogDB.cs",
               "RelativeDocumentMoniker": "BLL\\_DBParamFactory\\blogDB.cs",
@@ -571,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "aboutService.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_Services\\aboutService.cs",
               "RelativeDocumentMoniker": "BLL\\_Services\\aboutService.cs",
@@ -584,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "discountController.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\discountController.cs",
               "RelativeDocumentMoniker": "Controllers\\discountController.cs",
@@ -597,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "bannerController.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\bannerController.cs",
               "RelativeDocumentMoniker": "Controllers\\bannerController.cs",
@@ -610,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "discountDB.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\discountDB.cs",
               "RelativeDocumentMoniker": "BLL\\_DBParamFactory\\discountDB.cs",
@@ -623,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "aboutDB.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\aboutDB.cs",
               "RelativeDocumentMoniker": "BLL\\_DBParamFactory\\aboutDB.cs",
@@ -636,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "dashboardDB.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\dashboardDB.cs",
               "RelativeDocumentMoniker": "BLL\\_DBParamFactory\\dashboardDB.cs",
@@ -649,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "deliveryDB.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\BLL\\_DBParamFactory\\deliveryDB.cs",
               "RelativeDocumentMoniker": "BLL\\_DBParamFactory\\deliveryDB.cs",
@@ -662,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "LINQtoDataTable.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Helpers\\LINQtoDataTable.cs",
               "RelativeDocumentMoniker": "Helpers\\LINQtoDataTable.cs",
@@ -675,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "AboutController.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
@@ -688,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "DataTableEntensions.cs",
               "DocumentMoniker": "E:\\Projects\\GarageCustomer_Admin\\Helpers\\DataTableEntensions.cs",
               "RelativeDocumentMoniker": "Helpers\\DataTableEntensions.cs",
